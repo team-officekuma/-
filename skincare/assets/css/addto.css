@@ -1,0 +1,12 @@
+@charset "UTF-8";.maincontent{background-color:}
+.button-sp{width:70%;display:block;margin:0px auto;}
+.kesyousui_r{margin:0px auto 0px;}
+.kesyousui_r_img1{display:block;width:50%;margin:auto;}
+.table-moredetail{background-color:#fff;margin:auto;border:2px #FF69A3 solid;width:100%;}
+.table-moredetail th{background-color:#FFD5EC;border:1px #fff solid;font-weight:bold;}
+.table-moredetail .hitokoto{background-color:#FF69A3;border:1px #fff solid;font-weight:bold;}
+.table-moredetail td{border:1px #DCDCDC solid;text-align:center;vertical-align:middle;color:#F08080;}
+.mokuzi{width:70%;}
+.mokuzi .p-center{text-align:center;font-weight:bold;margin:0px;}
+@media (max-width:768px){.mokuzi{width:100%;}
+}
