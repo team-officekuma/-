@@ -12,7 +12,7 @@
 </script>
 
 <meta charset="UTF-8">
-<meta name="description" content="ディセンシア　つつむトライアルセットを実際に使用した人の口コミ・生声を紹介します。化粧水を初めて手に出した時、これは乳液？思うくらいトロミ強いローションですが、やさしく包まれるような使用感で、アトピー肌の私でも、しみたりすることもなく安心して使えます。">
+<meta name="description" content="ディセンシアつつむトライアルセットを実際に使用した人の口コミを紹介します。化粧水を初めて手に出した時、これは乳液？思うくらいトロミ強いローションですが、やさしく包まれるような使用感で、アトピー肌でも、しみずに安心して使えます。">
 <meta name="keywords" content="大人ニキビ,ニキビ跡,ディセンシア,化粧水,ニキビケア商品,口コミ,つつむトライアルセット">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <link rel="canonical" href="https://skincare.officekuma-yokohama.com/article/Category/kesyousui/decencia/">
