@@ -12,7 +12,7 @@
 </script>
 
 <meta charset="UTF-8">
-<meta name="description" content="ニキビ跡のケア方法を種類別にわけ徹底解説！根本的な消し方はもちろん、メイクでの隠し方まで解説。ニキビ跡で悩む生活からさよなら！">
+<meta name="description" content="種類別のニキビ跡のケア方法とおすすめのニキビ跡ケア商品をご紹介！ニキビ跡を改善するには日々の食事、睡眠などの生活習慣改善も重要です！内側から改善してニキビのできにくい体質にしましょう。">
 <meta name="keywords" content="大人ニキビ,ニキビ跡,化粧品,原因,悩み,対策">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <link rel="canonical" href="https://skincare.officekuma-yokohama.com/ato/">
