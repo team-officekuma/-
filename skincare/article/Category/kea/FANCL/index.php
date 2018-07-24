@@ -12,7 +12,7 @@
 </script>
 
 <meta charset="UTF-8">
-<meta name="description" content="ファンケル アクネケアたっぷりおためしキットを実際に使用した人の口コミ・生声を紹介します。">
+<meta name="description" content="ファンケル アクネケアたっぷりおためしキットを実際に使用した人の口コミ・生声を紹介します。ファンケルアクネケアは雑誌やメディアに多数取り上げられるほどの大人気商品。果たして口コミはどうなのでしょうか？">
 <meta name="keywords" content="大人ニキビ,ニキビ跡,ファンケル,ニキビケア商品,アクネケア,口コミ,生声">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <link rel="canonical" href="https://skincare.officekuma-yokohama.com/article/Category/kea/FANCL/">

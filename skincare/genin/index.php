@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ja">
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -12,7 +12,7 @@
 </script>
 
 <meta charset="UTF-8">
-<meta name="description" content="大人ニキビの原因は、ストレス、睡眠不足などの代表的なものから以外と見落としがちなものまで様々です。原因をしっかり知ることでより良い対策を行いましょう">
+<meta name="description" content="大人ニキビの原因は、ストレス、睡眠不足などの代表的なものから以外と見落としがちなものまで様々です。誤ったケアをしてしますと、どんどん悪化してしまいます。原因をしっかり知ることでより良い対策を行いましょう。">
 <meta name="keywords" content="大人ニキビ,ニキビ跡,化粧品,原因,悩み,対策,ストレス,睡眠不足">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <link rel="canonical" href="https://skincare.officekuma-yokohama.com/genin/">

@@ -12,7 +12,7 @@
 </script>
 
 <meta charset="UTF-8">
-<meta name="description" content="厳選”大人ニキビケア商品ランキング！ニキビを治す、ニキビ跡を消す、できにくい体質にするためのおススメのアイテムをランク付け！諦めているそんなあなたこそ見て下さい。">
+<meta name="description" content="厳選”大人ニキビケア商品ランキング！ニキビケア商品って多くでどれが良いのか分からない・・そんな方のために、ニキビを治す、ニキビ跡を消す、できにくい体質にするためのおすすめのアイテムをランク付け！諦めているそんなあなたこそ見て下さい。">
 <meta name="keywords" content="大人ニキビ,ニキビ跡,化粧品,原因,悩み,対策,ランク付け、おすすめ、">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <link rel="canonical" href="https://skincare.officekuma-yokohama.com/ranking/">

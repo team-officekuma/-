@@ -12,7 +12,7 @@
 </script>
 
 <meta charset="UTF-8">
-<meta name="description" content="リプロスキンを実際に使用した人の口コミ・生声を紹介します。ニキビ跡をケアするための導入型化粧水の「リプロスキン」。使用者の満足度92.9%で美容雑誌や新聞などメディアにも取り上げられている話題の商品ですが、本当にニキビ跡に効果があるのか？使用感は？肌に優しいのか？">
+<meta name="description" content="リプロスキンを実際に使用した人の口コミ・生声を紹介。ニキビ跡をケアするための導入型化粧水。使用者の満足度92.9%で美容雑誌や新聞などメディアにも取り上げられている話題の商品ですが、本当にニキビ跡に効果があるのか？使用感は？肌に優しいのか？">
 <meta name="keywords" content="大人ニキビ,ニキビ跡,リプロスキン,化粧水,ニキビケア商品,口コミ">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <link rel="canonical" href="https://skincare.officekuma-yokohama.com/article/Category/kesyousui/Reproskin/">

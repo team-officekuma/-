@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ja">
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -12,7 +12,7 @@
 </script>
 
 <meta charset="UTF-8">
-<meta name="description" content="ニキビケア商品が多すぎてどれを選べばいいのか分からない。そんな方のために、商品ごとに口コミを掲載！お気に入りのニキビケア商品を見つけるお役になれば幸いです。">
+<meta name="description" content="ニキビケア商品が多すぎてどれを選べばいいのか分からない。そんな方のために、商品ごとに実際に商品を使用した方の口コミを掲載！お気に入りのニキビケア商品を見つけるお役になれば幸いです。">
 <meta name="keywords" content="大人ニキビ,ニキビ跡,化粧品,原因,悩み,対策">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <link rel="canonical" href="https://skincare.officekuma-yokohama.com/article/Category/kea/">

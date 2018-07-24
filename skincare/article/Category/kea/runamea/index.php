@@ -12,7 +12,7 @@
 </script>
 
 <meta charset="UTF-8">
-<meta name="description" content="ルナメアAC１週間お手入れキットを実際に使用した人の口コミ・生声を紹介します。">
+<meta name="description" content="ルナメアAC１週間お手入れキットを実際に使用した人の口コミ・生声を紹介します。ルナメアACはニキビの原因となる「毛穴詰まり」を根本から改善し、ニキビのできにくいお肌へ導いてくれると評判です。果たしてその実力は本当なのでしょうか？">
 <meta name="keywords" content="大人ニキビ,ニキビ跡,ルナメアAC,ニキビケア商品,おすすめ、">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <link rel="canonical" href="https://skincare.officekuma-yokohama.com/article/Category/kea/runamea/">

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ja">
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -12,7 +12,7 @@
 </script>
 
 <meta charset="UTF-8">
-<meta name="description" content="大人ニキビと言っても、種類や段階、部位によって最適で効果的なケア方法は違います。それそれの効果的な治し方についてまとめてみました！">
+<meta name="description" content="大人ニキビと言っても、種類や段階、部位によって最適で効果的なケア方法は違います。それそれの効果的な治し方についてまとめてみました！自分のニキビの症状に合わせてご覧ください。大人ニキビにおすすめの商品もご紹介。">
 <meta name="keywords" content="大人ニキビ,ニキビ跡,化粧品,原因,悩み,対策,種類,治し方、部位別">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <link rel="canonical" href="https://skincare.officekuma-yokohama.com/naoshikata/">

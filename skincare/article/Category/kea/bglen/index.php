@@ -12,8 +12,7 @@
 </script>
 
 <meta charset="UTF-8">
-<meta name="description" content="ビーグレン(b.glen)トライアルセットを実際に使用した人の口コミ・生声を紹介します。">
-<meta name="keywords" content="大人ニキビ,ニキビ跡,ビーグレン,b.glen,ニキビケア商品,おすすめ、">
+<meta name="description" content="大人ニキビに効果的と有名なビーグレン(b.glen)。トライアルセットを実際に使用した人の口コミ・生声を紹介します。美容成分の浸透率にこだわりを持ち、独自技術や独自処方によって作られているのが特徴です。">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <link rel="canonical" href="https://skincare.officekuma-yokohama.com/article/Category/kea/bglen/">
 <link rel="alternate" hreflang="ja" href="https://skincare.officekuma-yokohama.com/article/Category/kea/bgren/">
