@@ -187,8 +187,8 @@
                             </td>
 							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZASQI+2UEKTU+3GHY+1TMEAQ" target="_blank" rel="nofollow">公式サイト</a>
 <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=2ZASQI+2UEKTU+3GHY+1TMEAQ" alt="【ファンケル】公式サイト"></td>
-							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+1823JM+YPG+614CY" target="_blank" rel="nofollow">公式サイト</a>
-<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=2ZEWP9+1823JM+YPG+614CY" alt="【ファンケル】公式サイト"></td>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+1823JM+YPG+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.bglen.net%2Fproducts%2Fdetail%2FTACA" target="_blank" rel="nofollow">公式サイト</a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=2ZEWP9+1823JM+YPG+BW8O2" alt="【ビーグレン】公式サイト"></td>
 							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+BXUZJM+2DDC+4STX76" target="_blank" rel="nofollow">公式サイト</a>
 <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=2ZEWP9+BXUZJM+2DDC+4STX76" alt="【ジッテプラス】公式サイト"></td>
 							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZJ3TR+82JJZM+2BHA+ZT0BM" target="_blank" rel="nofollow">公式サイト</a>
@@ -586,55 +586,9 @@
 					<img src="../../../assets/img/btn-to-top.png" alt="ページの先頭へ">
 				</a>
 			</div>
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
             
 		</div>
         
-        				
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-        
-
-        
-		
         <!--▼lightcontents▼-->
 <?php require_once '../../../lightcontents.php'; ?>
         <!--🔺lightcontents🔺-->
