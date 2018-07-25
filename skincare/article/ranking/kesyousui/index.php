@@ -107,6 +107,96 @@
                         そこで、みなさんにとりあえず1度試していただきたい当サイトおすすめのニキビケア商品ランキングを紹介していきます。
                     </p>
                 
+                <h5 class="akami-care">おすすめニキビケア"化粧水"簡単比較</h5>
+                <table class="table-ranking">
+						<tr>
+							<th></th>
+							<th>1位</th>
+							<th>2位</th>
+							<th>3位</th>
+							<th>4位</th>
+							<th>5位</th>
+						</tr>
+						<tr>
+							<th>商品名</th>
+							<td>ルナメアAC</td>
+							<td>ファンケル　アクネケア</td>
+							<td>ビーグレン</td>
+							<td>ジッテプラス</td>
+							<td>リプロスキン</td>
+						</tr>
+						<tr>
+							<th>商品画像</th>
+							<td><img src="../../../assets/img/kesyousui_runameAC.jpg" alt="ルナメアAC"></td>
+							<td><img src="../../../assets/img/kesyousui_FANCL.jpg" alt="ファンケル　アクネケア"></td>
+							<td><img src="../../../assets/img/kesyousui_b.glen.jpg" alt="ビーグレン"></td>
+							<td><img src="../../../assets/img/kesyousui_jitte.jpg" alt="ジッテプラス"></td>
+							<td><img src="../../../assets/img/kesyousui_reproskin.png" alt="リプロスキン"></td>
+						<tr>
+							<th>ニキビ有効成分</th>
+							<td>グリチルレチン酸ステアリル</td>
+							<td>グリチルリチン酸2K</td>
+							<td>グリチルリチン酸ジカリウム</td>
+							<td>アクシア-トリプルヒアルロン酸</td>
+							<td>水溶性プラセンタエキス</td>
+						</tr>
+                        <tr>
+							<th>浸透力</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="保湿力"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="保湿力"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="保湿力"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="保湿力"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="保湿力"></td>
+						</tr>    
+                        <tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="保湿力"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="保湿力"></td>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="保湿力"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="保湿力"></td>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="保湿力"></td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="安全性"></td>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="保湿力"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="安全性"></td>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="安全性"></td>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="安全性"></td>
+						</tr>
+                       <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="使用感"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="使用感"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="使用感"></td>
+                           <td><img src="../../../assets/img/ranking-maru.png" alt="使用感"></td>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="使用感"></td>
+						</tr>
+                        <tr>
+							<th>価格</th>
+							<td>1,080円 <br></td>
+							<td>1,000円<br>(無期限返品保証付き)</td>
+							<td>1,710円<br>(365日間返金保証付き)</td>
+							<td>初回980円<br></td>
+							<td>初回2,240円<br>(60日間返金保証付き)<br></td>
+						</tr>
+                        <tr>
+							<th>詳細</th>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP8+D2CGOI+2UM6+5YJRM" target="_blank" rel="nofollow">公式サイト</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=2ZEWP8+D2CGOI+2UM6+5YJRM" alt="【ルナメアAC】公式サイト">
+                            </td>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZASQI+2UEKTU+3GHY+1TMEAQ" target="_blank" rel="nofollow">公式サイト</a>
+<img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=2ZASQI+2UEKTU+3GHY+1TMEAQ" alt="【ファンケル】公式サイト"></td>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+1823JM+YPG+614CY" target="_blank" rel="nofollow">公式サイト</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=2ZEWP9+1823JM+YPG+614CY" alt="【ファンケル】公式サイト"></td>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+BXUZJM+2DDC+4STX76" target="_blank" rel="nofollow">公式サイト</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=2ZEWP9+BXUZJM+2DDC+4STX76" alt="【ジッテプラス】公式サイト"></td>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZJ3TR+82JJZM+2BHA+ZT0BM" target="_blank" rel="nofollow">公式サイト</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=2ZJ3TR+82JJZM+2BHA+ZT0BM" alt="【リプロスキン】公式サイト"></td>
+						</tr>
+				</table>
+                
+                
                 <h2 class="h2">ニキビケア商品選びのポイント！</h2>
                 <p>
                 人それぞれニキビの悩みや肌質は違いますが、<span>「毛穴をキレイに保つ」・「肌を乾燥させない」</span>この2つは大人ニキビを治すために欠かせないポイントになります。
