@@ -240,6 +240,40 @@
 					<div class="img">
 						<img src="../../../assets/img/runameAC_img1.jpg" alt="ニキビケア化粧水ランキング TOP1 ルナメアAC スキンコンディショナー">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+						</tr>
+						<tr>
+							<th>浸透力</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>肌の奥までスーッと浸透</td>
+                            
+						</tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>化粧水だけでもしっかり潤う</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>ノンコメドジェニックテスト済</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>ベタベタしない</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>トライアルセット1,080円</td>
+						</tr>
+				</table>
 					<p>
                     当サイト１番のおすすめニキビケア化粧水は、富士フイルムの”ルナメアACスキンコンディショナー”。
                     <br><br>
@@ -276,6 +310,40 @@
 					<div class="img">
 						<img src="../../../assets/img/FANCL-img1.jpg" alt="ニキビケア化粧水ランキング TOP2 ファンケル アクネケア 化粧液">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+						</tr>
+						<tr>
+							<th>浸透力</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>肌へのなじみがバツグンに良い</td>
+                            
+						</tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>しっとりとした柔らかい肌へ</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>添加物・殺菌剤不使用でとことん優しい</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>サッパリした使い心地で使いやすい</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>1,000円（無期限返品保証付き）</td>
+						</tr>
+				</table>
 					<p>
                     ２位はファンケルが<strong>皮膚科医と共同開発</strong>した「ファンケル アクネケア化粧液」。
                     <br><br>
@@ -310,6 +378,40 @@
 					<div class="img">
 						<img src="../../../assets/img/b.glen-img1.png" alt="ニキビケア化粧水ランキング TOP3 ビーグレン クレイローション">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+						</tr>
+						<tr>
+							<th>浸透力</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>あっという間に肌に入る</td>
+                            
+						</tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>弾力のある刺激に負けない強い肌に </td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>炎症ニキビにもしみない</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>水っぽいさらさらとした付け心地</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>トライアルセットは1,944円。本品は少し高め・・・</td>
+						</tr>
+				</table>
 					<p>
                     <span class="blue">ビーグレンクレイローションは、炎症した赤いニキビができやすい人にぴったりの化粧水。</span><br>
                     炎症を抑える「グリチルリチル酸ジカリウム」が入っていて、赤いニキビをしっかりケアしてくれます。
@@ -345,6 +447,40 @@
 					<div class="img">
 						<img src="../../../assets/img/jitte-img1.jpg" alt="ニキビケア化粧水ランキング 口コミ評価で話題沸騰中のジッテプラス（Jitte＋）">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+						</tr>
+						<tr>
+							<th>浸透力</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>独自製法で奥まで浸透</td>
+                            
+						</tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>潤いたっぷり</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>第三者機関で実証済み</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>しっとり仕上がり</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>初回は980円</td>
+						</tr>
+				</table>
 					<p>
                     ジッテプラス（Jitte＋）は背中ニキビのケアのために開発され、他のケア用品とは違います。<br>
                     <strong>もちろん全身にも使えますので、背中以外にも気になる箇所があれば活用！</strong>
@@ -381,7 +517,40 @@
                         1本で楽ちんに赤ニキビ跡をケアできる<br>&nbsp;</span>
 					<div class="img"><img src="../../../assets/img/reproskin_img1.jpg" alt="多くのメディアに掲載され、instagramでも話題沸騰中の商品！リプロスキン">
 					</div>
-                        
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+						</tr>
+						<tr>
+							<th>浸透力</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>抜群の浸透力</td>
+                            
+						</tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>持続力が高い</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>ノンコメドジェニックテスト済み</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>柔軟性のあるお肌に</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>初回は2.240円でやや高め・・・</td>
+						</tr>
+				</table>    
 					<p>
                     ニキビ跡のケアのためにつくられたブースター化粧水です。<br>
                     <br>
