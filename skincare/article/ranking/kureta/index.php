@@ -226,6 +226,34 @@
 					<div class="img">
 						<img src="../../../assets/img/reproskin_img1.jpg" alt="リプロスキン 凸凹・クレーターニキビ跡ケア">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+                        </tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>乾燥のない柔らかい肌に</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>着色料・鉱物油・バラペン・アルコール無添加</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>べたつかない・スッキリとしたバラの香り</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>初回2,240円(60日間返金保証付き）</td>
+						</tr>
+				</table>
 					<p>
                     当サイト１番のおすすめニキビケア化粧水は、<strong>リプロスキン。</strong>
                     <br><br>
@@ -258,6 +286,34 @@
 					<div class="img">
 						<img src="../../../assets/img/b.glen-img2.png" alt="ビーグレン 凸凹・クレーターニキビ跡ケア">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+                        </tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>しっとりもちもちの肌に</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>安全性の高い成分だけで作られている</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>美容液がじんわり温かくなる</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>初回1,944円</td>
+						</tr>
+				</table>
 					<p>
                         <span class="blue">ポリミアン・アップレビティという成分がコラーゲンを増やして肌に弾力やハリを与えるてくれます。</span><br>
                     コラーゲンが増えると肌がふっくらするので、少しずつニキビ跡のヘコみを目立たなくできるんですね。
@@ -290,6 +346,34 @@
 					<div class="img">
 						<img src="../../../assets/img/acracare-img1.jpg" alt="アクレケア 凸凹・クレーターニキビ跡ケア">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+                        </tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>保湿成分たっぷり配合</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>合成香料・着色料・鉱物油・シリコン不使用</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>さらさら仕上がり</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>4,500円</td>
+						</tr>
+				</table>
 					<p>
                     アクレケアは今までありそうでなかった<span class="blue">クレーター・凸凹ニキビ跡のケア専用美容液。</span>
                     <br><br>
@@ -325,6 +409,34 @@
 					<div class="img">
 						<img src="../../../assets/img/palclair-img1.jpg" alt="パルクレール美容液 凸凹・クレーターニキビ跡ケア">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+                        </tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>3種類のヒアルロン酸でしっかり保湿</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>こだわり抜いた低刺激処方！</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>浸透が早くべたつかない</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>5,200円（永久返金保証付き）</td>
+						</tr>
+				</table>
 					<p>
                     パルクレール美容液は<strong>"とにかく肌に優しい"</strong><br>
                     無添加で日本人の肌に合わせてつくられています。
@@ -368,7 +480,34 @@
 					<div class="img">
 						<img src="../../../assets/img/belleblanc-img1.jpg" alt="ベルブラン 凸凹・クレーターニキビ跡ケア">
 					</div>
-					
+					&nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+                        </tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-sannkaku.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>極度の乾燥肌には物足りない</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>低刺激処方</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>肌なじみが良くさらさら仕上がり</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>初回1,980円</td>
+						</tr>
+				</table>
                     <p>
                     オリジナルの”ナノ化"成分「甘草エキス」配合で、浸透力が高いのが特徴で、肌なじみがよくべたつきません。<br>
                     美容液なのにとてもサラッとしているので、べたつくスキンケアが苦手という方におすすめ。朝のメイク前から気にせず使うことができます。
