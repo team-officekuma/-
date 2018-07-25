@@ -110,6 +110,87 @@
                     そこで、大人ニキビに悩むみなさんに試していただきたい「クレーターニキビ跡」ケア商品を、当サイトで厳選しランキングを作りました。
                     </p>
                 
+                <h5 class="akami-care">おすすめニキビケア"化粧水"簡単比較</h5>
+                <table class="table-ranking">
+						<tr>
+							<th></th>
+							<th>1位</th>
+							<th>2位</th>
+							<th>3位</th>
+							<th>4位</th>
+							<th>5位</th>
+						</tr>
+						<tr>
+							<th>商品名</th>
+							<td>リプロスキン</td>
+							<td>ビーグレン</td>
+							<td>アクレケア</td>
+							<td>パルクレール美容液</td>
+							<td>ベルブラン</td>
+						</tr>
+						<tr>
+							<th>商品画像</th>
+							<td><img src="../../../assets/img/kesyousui_reproskin.png" alt="リプロスキン"></td>
+							<td><img src="../../../assets/img/kesyousui_b.glen.jpg" alt="ビーグレン"></td>
+							<td><img src="../../../assets/img/kureta_acracare.jpg" alt="アクレケア"></td>
+							<td><img src="../../../assets/img/kureta_palclair.jpg" alt="パルクレール美容液"></td>
+							<td><img src="../../../assets/img/kureta_belleblanc.jpg" alt="ベルブラン"></td>
+						<tr>
+							<th>有効成分</th>
+							<td>水溶性プラセンタエキス</td>
+							<td>グリチルリチン酸ジカリウム</td>
+							<td>卵殻膜</td>
+							<td>プラセンタ</td>
+							<td>油溶性甘草エキス</td>
+						</tr>  
+                        <tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="保湿力"></td>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="保湿力"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="保湿力"></td>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="保湿力"></td>
+							<td><img src="../../../assets/img/ranking-sannkaku.png" alt="保湿力"></td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="安全性"></td>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="保湿力"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="安全性"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="安全性"></td>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="安全性"></td>
+						</tr>
+                       <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="使用感"></td>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="使用感"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="使用感"></td>
+                           <td><img src="../../../assets/img/ranking-nigyumaru.png" alt="使用感"></td>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="使用感"></td>
+						</tr>
+                        <tr>
+							<th>価格</th>
+							<td>初回2,240円<br>（60日間返金保証付き）</td>
+							<td>1.944円</td>
+							<td>4,500円</td>
+							<td>5,200円<br>(永久返金保証付き）</td>
+							<td>初回1,980円<br></td>
+						</tr>
+                        <tr>
+							<th>詳細</th>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZJ3TR+834ZLE+2BHA+HVFKY" target="_blank" rel="nofollow">公式サイト</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=2ZJ3TR+834ZLE+2BHA+HVFKY" alt="【リプロスキン】公式サイト">
+                            </td>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+1823JM+YPG+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.bglen.net%2Fproducts%2Fdetail%2FTSDA" target="_blank" rel="nofollow">公式サイト</a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=2ZEWP9+1823JM+YPG+BW8O2" alt="【ビーグレン】公式サイト"></td>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZJAVG+D2XWAA+2QDE+HZI6Q" target="_blank" rel="nofollow">公式サイト</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=2ZJAVG+D2XWAA+2QDE+HZI6Q" alt="【アクレケア】公式サイト"></td>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZJAVG+DE94S2+3HSM+BX3J6" target="_blank" rel="nofollow">公式サイト</a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2ZJAVG+DE94S2+3HSM+BX3J6" alt="【パルクレール美容液】"></td>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZJAVG+DTQEIA+34KS+639IQ" target="_blank" rel="nofollow">公式サイト</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=2ZJAVG+DTQEIA+34KS+639IQ" alt="【ベルブラン】公式サイト"></td>
+						</tr>
+				</table>
+                
                 <h2 class="h2">クレーターニキビ跡に効果のあるニキビケア商品のポイント！</h2>
                 <p>
                 クレーターニキビ跡ケアに効果のある成分はこちら
@@ -130,6 +211,7 @@
                 <br><br>
                 ランキングを参考に、自分に合ったニキビケア商品を見つけてみてください。
                 </p>
+            
                 <h2 class="h2">当サイト人気・売れ筋のクレーターニキビ跡ケアランキング！</h2>        
 			</div>
             
