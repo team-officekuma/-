@@ -237,6 +237,34 @@
 					<div class="img">
 						<img src="../../../assets/img/palclairjel_img1.jpg" alt="パルクレールジェル">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+                        </tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>しっかりと保湿できる </td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>こだわりの低刺激処方</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>浸透が早いからすぐにメイクできる</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>4,980円（返金保証付き）</td>
+						</tr>
+				</table>
 					<p>
                     2017年、2018円と2年連続で<strong>モンドセレクション受賞の実力派商品。</strong><br>
                     モデルや芸能人も愛用でインスタグラムで話題沸騰中！
@@ -271,6 +299,34 @@
 					<div class="img">
 						<img src="../../../assets/img/jitte-img1.jpg" alt="Ｊｉｔｔｅ+（ジッテプラス）">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+                        </tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>潤いたっぷり</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>第三者機関で実証済み</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>しっとり仕上がり</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>初回は980円</td>
+						</tr>
+				</table>
 					<p>
                     ２位は口コミ拡散中の「Ｊｉｔｔｅ+（ジッテプラス）」<br>
                     <br>
@@ -311,6 +367,34 @@
 					<div class="img">
 						<img src="../../../assets/img/puremazing_img1.jpg" alt="ピュアメイジング">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+                        </tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>保湿力抜群！しっとりぷるぷる肌に♪</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>5つの無添加</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>無香料だから誰でも使いやすい</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>1,980円(返金保証付き)</td>
+						</tr>
+				</table>
 					<p>
                     ピュアメイジングは<strong>とにかく美容成分が贅沢!</strong><br>
                     <br>
@@ -357,6 +441,34 @@
 					<div class="img">
 						<img src="../../../assets/img/melline_img1.jpg" alt="メルライン">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+                        </tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>10種類の保湿成分でもちもちの肌に</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>合成香料・着色料・鉱物油・エタノール・パラベン不使用</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>さらっとしているのにしっとりうるおう</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td> 4,980円（返金保証付き）</td>
+						</tr>
+				</table>
 					<p>
                     <strong>10種類に厳選保湿成分</strong>
                     </p>
@@ -401,7 +513,34 @@
                         満足度95.1%、リピート率95.1%、お悩み解決実感85.9%、うるおい使用実感93.1%<br>&nbsp;</span>
 					<div class="img"><img src="../../../assets/img/placne_img1.jpg" alt="プラクネ">
 					</div>
-                        
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+                        </tr>
+						<tr>
+							<th>保湿力</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>ナノサイズの保湿成分が肌の内側まで潤いを届ける</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>敏感・乾燥肌でも使える優しい処方</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>さらさら仕上がりでベタつかない</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>1,800円（返金保証付き）</td>
+						</tr>
+				</table>    
 					<p>
                     プラクネは保湿にこだわったオールインワンの薬用クリーム。
                     <br><br>
@@ -431,8 +570,7 @@
                     <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=2ZL6YP+97114I+3HSM+5Z6WY" alt="パルクレールジェルの公式サイトはこちら">
 				</p>
 				<p>
-				    <a class="button" href="https://px.a8.net/svt/ejp?a8mat=2ZL6YP+97114I+3HSM+5Z6WY" target="_blank" rel="nofollow">パルクレールジェルの口コミを見る</a>
-                    <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=2ZL6YP+97114I+3HSM+5Z6WY" alt="パルクレールジェルの口コミを見る">
+				    <a href="../../../article/Category/allinone-gel/palclair/index.php">パルクレールジェルの口コミを見る</a>
 				</p>
                 
             </div>
