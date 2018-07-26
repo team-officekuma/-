@@ -579,6 +579,17 @@
 				</div>
                 <!--▲▲ランキング5▲▲-->
                 
+                <h2 class="h2">迷っている方には1位の「ルナメアAC」がおすすめ！</h2>
+                <p>「どれにしたらいいのかまだ迷うなぁ・・・」という方には、ランキング1位の「ルナメアAC」が1番のおすすめです。</p>
+    
+                    <p>
+                        <a class="button" href="https://px.a8.net/svt/ejp?a8mat=2ZEWP8+D2CGOI+2UM6+5YJRM" target="_blank" rel="nofollow">ルナメアACの公式サイトはこちら</a>
+                        <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=2ZEWP8+D2CGOI+2UM6+5YJRM" alt="ルナメアACの公式サイトはこちら">
+					</p>
+					<p>
+						<a href="../../../article/Category/kea/runamea/index.php">ルナメアACの口コミを見る</a>
+					</p>
+                
             </div>
             
             <div class="to-top o-PC">
