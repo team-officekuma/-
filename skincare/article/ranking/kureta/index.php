@@ -530,6 +530,17 @@
 					</p>
 				</div>
                 <!--▲▲ランキング５▲▲-->
+                
+            <h2 class="h2">迷っている方には1位の「リプロスキン」がおすすめ！</h2>
+                <p>「どれにしたらいいのかまだ迷うなぁ・・・」という方には、ランキング1位の「リプロスキン」が1番のおすすめです。</p>
+    
+                    <p>
+                    <a class="button" href="https://px.a8.net/svt/ejp?a8mat=2ZJ3TR+834ZLE+2BHA+HVFKY" target="_blank" rel="nofollow">リプロスキンの公式サイトはこちら</a>
+                    <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=2ZJ3TR+834ZLE+2BHA+HVFKY" alt="リプロスキンの公式サイトはこちら">
+					</p>
+					<p>
+						<a href="../../../article/Category/kesyousui/Reproskin/index.php">リプロスキンの口コミを見る</a>
+					</p>    
                     
             </div>
                 
@@ -549,41 +560,7 @@
             
             
             
-		</div>
-        
-        				
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-        
-
-        
+        </div>
 		
         <!--▼lightcontents▼-->
 <?php require_once '../../../lightcontents.php'; ?>
