@@ -171,7 +171,7 @@
                 <!--▼▼ルナメアAC▼▼-->
 				<div class="category-box">
 					<div class="category-title">
-                        <a href="runamea/index.php">FUJIFILM ルナメアACを実際に使用した人の口コミ・生声</a>
+                        <a href="../kea/runamea/index.php">FUJIFILM ルナメアACを実際に使用した人の口コミ・生声</a>
 					</div>
 					<div class="category-img">
 							<a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP8+D2CGOI+2UM6+66OZ5" target="_blank" rel="nofollow">
@@ -185,7 +185,7 @@
                         <h5>お肌にやさしくニキビの原因に直接届く</h5>
 					</div>
 					<div class="category-link">
-                        <a href="runamea/index.php">→FUJIFILM ルナメアACを実際に使用した人の口コミ・生声の一覧を見る</a>
+                        <a href="../kea/runamea/index.php">→FUJIFILM ルナメアACを実際に使用した人の口コミ・生声の一覧を見る</a>
 					</div>
 				</div>
                 <!--▲▲ルナメアAC▲▲-->
@@ -193,7 +193,7 @@
                 <!--▼▼ビーグレン▼▼-->
 				<div class="category-box">
 					<div class="category-title">
-                        <a href="bglen/index.php">ビーグレン(b.glen)を実際に使用した人の口コミ・生声</a>
+                        <a href="../kea/bglen/index.php">ビーグレン(b.glen)を実際に使用した人の口コミ・生声</a>
 					</div>
 					<div class="category-img">
 							<a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+1823JM+YPG+77CF5" target="_blank" rel="nofollow">
@@ -207,7 +207,7 @@
                         <h5>ニキビ跡のケアならコレ！</h5>
 					</div>
 					<div class="category-link">
-                        <a href="bglen/index.php">→ビーグレン(b.glen)を実際に使用した人の口コミ・生声の一覧を見る</a>
+                        <a href="../kea/bglen/index.php">→ビーグレン(b.glen)を実際に使用した人の口コミ・生声の一覧を見る</a>
 					</div>
 				</div>
                 <!--▲▲ビーグレン▲▲-->
@@ -215,7 +215,7 @@
                 <!--▼▼ファンケル▼▼-->
 				<div class="category-box">
 					<div class="category-title">
-                        <a href="FANCL/index.php">ファンケル アクネケアを実際に使用した人の口コミ・生声</a>
+                        <a href="../kea/FANCL/index.php">ファンケル アクネケアを実際に使用した人の口コミ・生声</a>
 					</div>
 					<div class="category-img">
 							<a href="https://px.a8.net/svt/ejp?a8mat=2ZASQI+2UEKTU+3GHY+1TL401" target="_blank" rel="nofollow">
@@ -229,7 +229,7 @@
                         <h5>３０日間じっくりニキビへの効果を確かめたい</h5>
 					</div>
 					<div class="category-link">
-                        <a href="FANCL/index.php">→ファンケル アクネケアを実際に使用した人の口コミ・生声の一覧を見る</a>
+                        <a href="../kea/FANCL/index.php">→ファンケル アクネケアを実際に使用した人の口コミ・生声の一覧を見る</a>
 					</div>
 				</div>
                 <!--▲▲ファンケル▲▲-->
