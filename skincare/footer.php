@@ -59,7 +59,7 @@ print( '
 				<a href="https://skincare.officekuma-yokohama.com/ranking/index.php">ニキビケアランキング</a>
             </li>
             <li>
-				<a href="https://skincare.officekuma-yokohama.com/article/Category/kea/index.php">ニキビケア用品の口コミ  
+				<a href="https://skincare.officekuma-yokohama.com/article/Category/kea/index.php">ニキビケアトライアルセットの口コミ  
 				</a>
             </li>
         </ul>
