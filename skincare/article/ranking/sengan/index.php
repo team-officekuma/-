@@ -111,6 +111,92 @@
                     そこで、大人ニキビに悩むみなさんに試していただきたい「おすすめのニキビケア洗顔料」を、当サイトで厳選しランキングを作りました。
                     </p>
                 
+                <h5 class="akami-care">おすすめ"ニキビケア洗顔料"の簡単比較</h5>
+                <table class="table-ranking">
+						<tr>
+							<th></th>
+							<th>1位</th>
+							<th>2位</th>
+							<th>3位</th>
+							<th>4位</th>
+							<th>5位</th>
+						</tr>
+						<tr>
+							<th>商品名</th>
+							<td>然-しかり- よかせっけん</td>
+							<td>ルナメアAC(ファイバーフォーム)</td>
+							<td>オルビス薬用クリア</td>
+							<td>NonA(ノンエー)</td>
+							<td>プロアクティブ+ (スキンスムージングクレンザー)</td>
+						</tr>
+						<tr>
+							<th>商品画像</th>
+							<td><img src="../../../assets/img/sengan_yokasekken.jpg" alt="然-しかり- よかせっけん"></td>
+							<td><img src="../../../assets/img/sengan_runamea.jpg" alt="ルナメアAC(ファイバーフォーム)"></td>
+							<td><img src="../../../assets/img/sengan_orubisu.jpg" alt="オルビス薬用クリア"></td>
+							<td><img src="../../../assets/img/sengan_nona.png" alt="NonA(ノンエー)"></td>
+							<td><img src="../../../assets/img/sengan_proactiv.jpg" alt="プロアクティブ+ (スキンスムージングクレンザー)"></td>
+						<tr>
+							<th>有効成分</th>
+							<td>超微細シリカパウダー</td>
+							<td>結晶セルロース</td>
+							<td>甘草エキス</td>
+							<td>ローヤルゼリー</td>
+							<td>サリチル酸</td>
+						</tr>  
+                        <tr>
+							<th>洗浄力</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="洗浄力"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="洗浄力"></td>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="洗浄力"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="洗浄力"></td>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="洗浄力"></td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="安全性"></td>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="安全性"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="安全性"></td>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="安全性"></td>
+							<td><img src="../../../assets/img/ranking-sannkaku.png" alt="安全性"></td>
+						</tr>
+                       <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="使用感"></td>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="使用感"></td>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="使用感"></td>
+                           <td><img src="../../../assets/img/ranking-nigyumaru.png" alt="使用感"></td>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="使用感"></td>
+						</tr>
+                        <tr>
+							<th>価格</th>
+							<td>1,705円</td>
+							<td>トライアルセット1,080円</td>
+							<td>トライアルセット1,200円</td>
+							<td>2,940円<br>（全額返金保証付き）</td>
+							<td>3ステップセット4,900円<br>（60日間返金保証付き）</td>
+						</tr>
+                        <tr>
+							<th>詳細</th>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP7+BET46Q+3QN8+5YJRM" target="_blank" rel="nofollow">公式サイト</a>
+                            <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=2ZEWP7+BET46Q+3QN8+5YJRM" alt="【然-しかり- よかせっけん】公式サイト">
+                            </td>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP8+D2CGOI+2UM6+5YJRM" target="_blank" rel="nofollow">公式サイト</a>
+                            <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2ZEWP8+D2CGOI+2UM6+5YJRM" alt="【ルナメアAC(ファイバーフォーム)】公式サイト">
+                            </td>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZF8G4+5H2I0I+1USQ+C1DUQ" target="_blank" rel="nofollow">公式サイト</a>
+                            <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=2ZF8G4+5H2I0I+1USQ+C1DUQ" alt="【オルビス薬用クリア】公式サイト">
+                            </td>
+							<td><a href="https://px.a8.net/svt/ejp?a8mat=2ZJ3TR+87WGFM+3O6W+5ZMCI" target="_blank" rel="nofollow">公式サイト</a>
+                            <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2ZJ3TR+87WGFM+3O6W+5ZMCI" alt="【NonA(ノンエー)】公式サイト">
+                            </td>
+							<td>
+                            <a href="https://px.a8.net/svt/ejp?a8mat=2ZJ3TR+87B0TU+23RS+ZTV6Q" target="_blank" rel="nofollow">公式サイト</a>
+                            <img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2ZJ3TR+87B0TU+23RS+ZTV6Q" alt="【プロアクティブ+ (スキンスムージングクレンザー)】公式サイト">
+                            </td>
+						</tr>
+				</table>
+                
                 <h2 class="h2">ニキビケア洗顔料のポイント！</h2>
                 <p>
                 まず1番に気を付けたいのが洗浄力です。洗浄力が強すぎても、弱すぎてもNG。
