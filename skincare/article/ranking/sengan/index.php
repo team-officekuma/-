@@ -237,8 +237,36 @@
 				<div class="box-2">
 					<span>モンドセレクション2008年金賞受賞の賞！1700万個突破！の話題商品<br>&nbsp;</span>
 					<div class="img">
-						<img src="../../../assets/img/tyouzyu-yokasekken-1.JPG" alt="【然-しかり- よかせっけん】 石鹸　　練り石鹸　シリカ　天然由来　モチモチ泡　ニキビ　洗顔">
+						<img src="../../../assets/img/tyouzyu-yokasekken-1.JPG" alt="【然-しかり- よかせっけん】 ">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+						</tr>
+						<tr>
+							<th>洗浄力</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>吸着洗顔で優しく洗い落す</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>完全無添加で安心</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>クリーミーな泡がクセになる</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>1,705円</td>
+						</tr>
+				</table>
 					<p>
                     当サイト１番のおすすめニキビケア化粧水は、長寿乃里”【然-しかり- よかせっけん】”。
                     <br><br>
@@ -273,6 +301,34 @@
 					<div class="img">
 						<img src="../../../assets/img/runameAC_img2.jpg" alt="ニキビケア洗顔料ランキング TOP2 ルナメアAC ファイバーフォーム">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+						</tr>
+						<tr>
+							<th>洗浄力</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>毛穴の黒ずみに効果あり</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>香料・合成着色料不使用</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>もちもち泡が気持ち良い！</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>トライアルセット1,080円</td>
+						</tr>
+				</table>
 					<p>
                     2位に輝いたのはフジフイルムルからルナメアAC。
                     <br><br>
@@ -312,6 +368,34 @@
 					<div class="img">
 						<img src="../../../assets/img/orubisu-img1.jpg" alt="ニキビケア化粧水ランキング TOP3 オルビス薬用クリア">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+						</tr>
+						<tr>
+							<th>洗浄力</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>毛穴の汚れもやさしく落とす</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>泡がしっかりしているから、肌を傷つける心配なし</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>もちもちの泡ができる</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>トライアルセット1,200円。</td>
+						</tr>
+				</table>
 					<p>
                     「バウンドリッチ処方」というオルビス独自の技術で作られたもちもち泡で、毛穴の汚れをスッキリ絡めとります。<br>
                     洗顔中に泡がへたらないので、<span class="blue">ニキビや肌を傷つけずに洗顔できるんですね。</span>
@@ -349,6 +433,34 @@
 					<div class="img">
 						<img src="../../../assets/img/nona-img1.png" alt="ノンエー(NonA)">
 					</div>
+                    &nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+						</tr>
+						<tr>
+							<th>洗浄力</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>さっぱり仕上がり</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>乾燥肌さんだとつっぱることがあるので注意</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>ふわっふわのもこもこ泡が気持ち良い！</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>1個約3,000円と値段は高めだが物持ちはいい。(返金保証付き)</td>
+						</tr>
+				</table>
 					<p>
                     ノンエー(NonA)はとにかく泡立ちがすごい。<br>
                     ふつうの石鹸の約4倍も泡立ち。<span class="blue">もちもち泡での洗顔はお肌を傷つける心配なし</span><br>
@@ -383,7 +495,34 @@
 					<div class="img">
 						<img src="../../../assets/img/proactiv-img1.jpg" alt="プロアクティブ+ スキンスムージングクレンザー">
 					</div>
-					
+					&nbsp;<br>
+                    <table class="table-moredetail" >
+						<tr>
+							<th></th>
+							<th>評価</th>
+                            <th class="hitokoto">一言</th>
+						</tr>
+						<tr>
+							<th>洗浄力</th>
+							<td><img src="../../../assets/img/ranking-hanamaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>毛穴の奥深くまでキレイに洗浄</td>
+						</tr>
+                        <tr>
+							<th>安全性</th>
+							<td><img src="../../../assets/img/ranking-sannkaku.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>スクラブ入りなので超敏感肌さんは注意</td>
+						</tr>
+                        <tr>
+							<th>使用感</th>
+							<td><img src="../../../assets/img/ranking-nigyumaru.png" alt="大人ニキビケア　ランキング"></td>
+                            <td>洗い上がりが超すっきり！</td>
+						</tr>
+                       <tr>
+							<th>価格</th>
+							<td><img src="../../../assets/img/ranking-maru.png" alt="大人ニキビケア　ランキング"></td>
+                           <td>3点セット＋おまけで4,900円<br>60日間の返金保証あり。</td>
+						</tr>
+				</table>
                     <p>
                     <strong>プロアクティブは、皮脂が多くテカリやベタつきが気になる脂性肌さんにおすすめのアクネケア洗顔料です。</strong><br>
                     <br>
