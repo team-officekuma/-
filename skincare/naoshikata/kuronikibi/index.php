@@ -12,13 +12,13 @@
 </script>
 
 <meta charset="UTF-8">
-<meta name="description" content="白ニキビの治し方を知りたい人は必見！白ニキビは初期のニキビ、早い段階でケアすることで炎症が起きる赤ニキビへの成長を防いでくれます。そんな白ニキビを治すのに最適なスキンケア商品からホームケアまでご紹介していきます。">
-<meta name="keywords" content="大人ニキビ,白ニキビ,ホームケア,治し方,最適なスキンケア商品,必見">
+<meta name="description" content="黒ニキビを治すには洗顔が最重要！誤った洗顔料を使っていると、赤ニキビや黄ニキビに成長してしまうことも。正しい洗顔料の選び方とおススメの洗顔料をご紹介していきます。さらにニキビを治す豆知識・・">
+<meta name="keywords" content="大人ニキビ,黒ニキビ,洗顔料,治し方,最適なスキンケア商品,必見">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
-<link rel="canonical" href="https://skincare.officekuma-yokohama.com/naoshikata/sironikibi/">
-<link rel="alternate" hreflang="ja" href="https://skincare.officekuma-yokohama.com/naoshikata/sironikibi/">
+<link rel="canonical" href="https://skincare.officekuma-yokohama.com/naoshikata/kuronikibi/">
+<link rel="alternate" hreflang="ja" href="https://skincare.officekuma-yokohama.com/naoshikata/kuronikibi/">
 <link rel="shortcut icon" href="../../assets/img/favicon.ico">
-<title>【白ニキビの原因と治し方】ホームケアと最適なスキンケア</title>
+<title>【黒ニキビの原因と治し方】原因～ケア方法まで徹底解説</title>
 <link href="../../assets/css/common.css" rel="stylesheet">
 <link href="../../assets/css/addto.css" rel="stylesheet">
 <link href="../../assets/css/jquery.mmenu.all.css" rel="stylesheet">
