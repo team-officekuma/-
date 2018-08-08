@@ -13,7 +13,7 @@
 
 <meta charset="UTF-8">
 <meta name="description" content="パルクレールジェルを実際に使用した人の口コミ・生声を紹介します。今、多くのメディアで注目されている「パルクレールジェル」。パルクレールジェルは大人ニキビケア用オールインワンジェル。その実力は本当なのでしょうか。">
-<meta name="keywords" content="大人ニキビ,ニキビ跡,パルクレールジェル,オールインワンジェル,ニキビケア商品,おすすめ、">
+<meta name="keywords" content="大人ニキビ,ニキビ跡,パルクレールジェル,オールインワンジェル,ニキビケア商品,">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <link rel="canonical" href="https://skincare.officekuma-yokohama.com/article/Category/allinone-gel/palclair/">
 <link rel="alternate" hreflang="ja" href="https://skincare.officekuma-yokohama.com/article/Category/allinone-gel/palclair/">
@@ -29,9 +29,9 @@
 {
   "@context" : "http://schema.org",
   "@type" : "Product",
-  "name" : "パルクレールジェル",
+  "name" : "パルクレールジェルは保湿成分",
   "image" : "https://skincare.officekuma-yokohama.com/assets/img/ttl_kuchikomi-palclair.jpg",
-  "description" : "パルクレールジェルの口コミ",
+  "description" : "パルクレールジェル トライアルセットを実際に使用した人の<BR/>口コミ・生声",
   "offers" : {
     "@type" : "Offer",
     "price" : "4980円"

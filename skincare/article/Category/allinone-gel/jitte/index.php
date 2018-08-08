@@ -12,13 +12,13 @@
 </script>
 
 <meta charset="UTF-8">
-<meta name="description" content="パルクレールジェルを実際に使用した人の口コミ・生声を紹介します。今、多くのメディアで注目されている「パルクレールジェル」。パルクレールジェルは大人ニキビケア用オールインワンジェル。その実力は本当なのでしょうか。">
-<meta name="keywords" content="大人ニキビ,ニキビ跡,パルクレールジェル,オールインワンジェル,ニキビケア商品,おすすめ、">
+<meta name="description" content="ジッテプラスを実際に使用した人の口コミ・生声を紹介します。ジッテプラス背中ニキビのケアのために開発されたオールインワンジェル。その実力は本当なのでしょうか。もちろん全身にも使えますので、背中以外にも気になる箇所があれば活用・・・">
+<meta name="keywords" content="大人ニキビ,ニキビ跡,ジッテプラス,オールインワンジェル,ニキビケア商品,おすすめ,jitte,">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
-<link rel="canonical" href="https://skincare.officekuma-yokohama.com/article/Category/allinone-gel/palclair/">
-<link rel="alternate" hreflang="ja" href="https://skincare.officekuma-yokohama.com/article/Category/allinone-gel/palclair/">
+<link rel="canonical" href="https://skincare.officekuma-yokohama.com/article/Category/allinone-gel/jitte/">
+<link rel="alternate" hreflang="ja" href="https://skincare.officekuma-yokohama.com/article/Category/allinone-gel/jitte/">
 <link rel="shortcut icon" href="../../../../assets/img/favicon.ico">
-<title>パルクレールジェルは本当にニキビに効く？リアルな口コミを掲載</title>
+<title>ジッテプラスは本当にニキビに効く？リアルな口コミを掲載</title>
 <link href="../../../../assets/css/common.css" rel="stylesheet">
 <link href="../../../../assets/css/jquery.mmenu.all.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -29,12 +29,12 @@
 {
   "@context" : "http://schema.org",
   "@type" : "Product",
-  "name" : "パルクレールジェル",
-  "image" : "https://skincare.officekuma-yokohama.com/assets/img/ttl_kuchikomi-palclair.jpg",
-  "description" : "パルクレールジェルの口コミ",
+  "name" : "ジッテプラス",
+  "image" : "https://skincare.officekuma-yokohama.com/assets/img/ttl_kuchikomi-jitte.jpg",
+  "description" : "ジッテプラスを実際に使用した人の<BR/>口コミ・生声",
   "offers" : {
     "@type" : "Offer",
-    "price" : "4980円"
+    "price" : "980円"
   }
 }
 </script>
