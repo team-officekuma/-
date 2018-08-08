@@ -352,8 +352,7 @@
                         <img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2ZEWP9+BXUZJM+2DDC+4STX76" alt="ジッテプラスの公式サイト">
 					</p>
 					<p>⇒
-						<a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+BXUZJM+2DDC+4STX76" target="_blank" rel="nofollow">ジッテプラスの公式レビュー</a>
-                        <img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2ZEWP9+BXUZJM+2DDC+4STX76" alt="ジッテプラスの公式レビュー">
+						<a href="../../Category/allinone-gel/jitte/index.php">ジッテプラスの口コミを見る</a>
 					</p>
 				</div>
                 <!--▲▲ランキング２▲▲-->

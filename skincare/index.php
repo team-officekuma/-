@@ -387,7 +387,7 @@ $(document).ready(function(){
 				         </div>
 						<div class="button">
 							<ul>
-								<li><a href="ranking/index.php"></a></li>
+								<li><a href="article/Category/allinone-gel/jitte/index.php"></a></li>
 								<li><a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+BXUZJM+2DDC+4SPULE" target="_blank" rel="nofollow"></a>
 <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=2ZEWP9+BXUZJM+2DDC+4SPULE" alt="背中にきび・にきび跡・大人ニキビに"></li>
 							</ul>
@@ -460,6 +460,10 @@ $(document).ready(function(){
 			<h4 class="o-category o-PC"><img src="assets/img/title-news.png" alt="更新履歴"></h4>
 			<div class="o-top04-news o-PC">
 				<table>
+                    <tr>
+                        <th>2018.08.08</th>
+				        <td><a href="article/Category/allinone-gel/jitte/index.php">ジッテプラスを実際に使用した人の口コミ・生声</a>
+                    </tr> 
                     <tr>    
                         <th>2018.07.10</th>
 				        <td><a href="article/Category/allinone-gel/palclair/">パルクレールジェルを実際に使用した人の口コミ・生声</a></td>
@@ -471,11 +475,7 @@ $(document).ready(function(){
 					<tr>
                         <th>2018.06.29</th>
                         <td><a href="article/Category/kesyousui/decencia/index.php">ディセンシア　つつむトライアルセットを実際に使用した人の口コミ・生声</a></td>
-                    </tr>
-                    <tr>
-                        <th>2018.06.22</th>
-				        <td><a href="article/Category/kesyousui/Reproskin/index.php">リプロスキンを実際に使用した人の口コミ・生声</a>
-                    </tr>    
+                    </tr>   
 				</table>
 			</div>
             　　<!--▲更新履歴▲-->
@@ -724,7 +724,7 @@ $(document).ready(function(){
                 <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=2ZEWP9+BXUZJM+2DDC+4SPULE" alt="">
 			</div>
 			<div class="">
-                <a href="ranking/index.php">
+                <a href="article/Category/allinone-gel/jitte/index.php">
                     <img class="button-sp" src="assets/img/btn_review_b.png" alt="レビューを見る"></a>
                 <a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+BXUZJM+2DDC+4SPULE" target="_blank" rel="nofollow">
                 <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=2ZEWP9+BXUZJM+2DDC+4SPULE" alt="背中にきび・にきび跡・大人ニキビに『Ｊｉｔｔｅ+（ジッテプラス）』">
@@ -760,6 +760,10 @@ $(document).ready(function(){
     <h4 class="o-category"><img src="assets/img/title-news.png" alt="更新履歴"></h4>
 	<div class="o-top04-news">
 		<table>
+            <tr>    
+                <th>2018.08.08</th>
+				<td><a href="article/Category/allinone-gel/jitte/index.php">ジッテプラスを実際に使用した人の口コミ・生声</a></td>
+            </tr>  
             <tr>
                 <th>2018.06.19</th>
 				<td><a href="article/Category/allinone-gel/palclair/">パルクレールジェルを実際に使用した人の口コミ・生声</a></td>
@@ -771,11 +775,7 @@ $(document).ready(function(){
 			<tr>
                 <th>2018.06.29</th>
 				<td><a href="article/Category/kesyousui/decencia/index.php">ディセンシア　つつむトライアルセットを実際に使用した人の口コミ・生声</a></td>
-            </tr>
-            <tr>    
-                <th>2018.06.22</th>
-				<td><a href="article/Category/kesyousui/Reproskin/index.php">リプロスキンを実際に使用した人の口コミ・生声</a></td>
-            </tr>        
+            </tr>      
 		</table>
 	</div>
 </div>

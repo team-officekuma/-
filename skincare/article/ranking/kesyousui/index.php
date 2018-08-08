@@ -296,7 +296,6 @@
 					<p>⇒
 						<a
                            href="../../Category/kea/runamea/index.php">ルナメアACの口コミを見る</a>
-                        <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=2ZEWP8+D2CGOI+2UM6+5YJRM" alt="公式レビューはこちら">
 					</p>
 				</div>
                 <!--▲▲ランキング１▲▲-->
@@ -364,7 +363,6 @@
 					</p>
 					<p>⇒
 						<a href="../../Category/kea/FANCL/index.php">ファンケルの口コミを見る</a>
-                        <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2ZASQI+2UEKTU+3GHY+1TMEAQ" alt="公式レビューはこちら">
 					</p>
 				</div>
                 <!--▲▲ランキング２▲▲-->
@@ -429,9 +427,8 @@
                         <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=2ZEWP9+1823JM+YPG+BW8O2" alt="ビーグレン クレイローションの公式サイトはこちら">
 					</p>
 					<p>⇒
-						<a 
-                           href="../../Category/kea/bglen/index.php">ビーグレンの口コミを見る</a>
-                        <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=2ZEWP9+1823JM+YPG+BW8O2" alt="ビーグレン クレイローションの公式サイトはこちら">
+						<a href="../../Category/kea/bglen/index.php">ビーグレンの口コミを見る</a>
+                    
 					</p>
 				</div>
                 <!--▲▲ランキング３▲▲-->
@@ -501,8 +498,7 @@
                         <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2ZEWP9+BXUZJM+2DDC+4SPULE" alt="口コミ評価で話題沸騰中のジッテプラス（Jitte＋）">
 					</p>
 					<p>⇒
-						<a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+BXUZJM+2DDC+4SPULE" target="_blank" rel="nofollow">公式レビューはこちら</a>
-                        <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2ZEWP9+BXUZJM+2DDC+4SPULE" alt="口コミ評価で話題沸騰中のジッテプラス（Jitte＋）">
+						<a href="../../Category/allinone-gel/jitte/index.php">ジッテプラスの口コミを見る</a>
 					</p>
 				</div>
                 <!--▲▲ランキング４▲▲-->

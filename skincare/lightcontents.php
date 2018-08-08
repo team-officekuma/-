@@ -64,6 +64,11 @@ print( '
 				<h4 class="title-articles">新着記事</h4>
 				<ul>
                     <li>
+						<a href="https://skincare.officekuma-yokohama.com/article/Category/allinone-gel/jitte/index.php">
+							「ジッテプラス」を実際に使用した人の口コミ・生声
+						</a>
+					</li>
+                    <li>
 						<a href="https://skincare.officekuma-yokohama.com/article/Category/allinone-gel/palclair/">
 							「パルクレールジェル」を実際に使用した人の口コミ・生声
 						</a>
@@ -71,11 +76,6 @@ print( '
                     <li>
 						<a href="https://skincare.officekuma-yokohama.com/article/Category/kesyousui/ayanasu/">
 							「アヤナス　トライアルセット」を実際に使用した人の口コミ・生声
-						</a>
-					</li>
-					<li>
-						<a href="https://skincare.officekuma-yokohama.com/article/Category/kesyousui/Reproskin/index.php">
-							「リプロスキン」を実際に使用した人の口コミ・生声
 						</a>
 					</li>
 				</ul>
@@ -143,7 +143,7 @@ print( '
 								<a href="https://skincare.officekuma-yokohama.com/article/Category/kesyousui/index.php">"化粧水"の口コミ・レビュー (6)<span></span></a>
                             </li>
                             <li class="li-children">
-								<a href="https://skincare.officekuma-yokohama.com/article/Category/allinone-gel/">"オールインワンジェル"の口コミ・レビュー (1)<span></span></a>
+								<a href="https://skincare.officekuma-yokohama.com/article/Category/allinone-gel/">"オールインワンジェル"の口コミ・レビュー (2)<span></span></a>
                             </li>
 						</ul>
 					</li>

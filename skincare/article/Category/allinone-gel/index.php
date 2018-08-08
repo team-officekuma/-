@@ -102,7 +102,7 @@
                     </a>
                     -->
 				</h1>
-                <!--▼▼ルナメアAC▼▼-->
+                <!--▼▼パルクレールジェル▼▼-->
 				<div class="category-box">
 					<div class="category-title">
                         <a href="palclair/">パルクレールジェルを実際に使用した人の口コミ・生声</a>
@@ -122,7 +122,29 @@
                         <a href="palclair/">→パルクレールジェルを実際に使用した人の口コミ・生声の一覧を見る</a>
 					</div>
 				</div>
-                <!--▲▲ルナメアAC▲▲-->
+                <!--▲▲パルクレールジェル▲▲-->
+                
+                <!--▼▼ジッテプラス▼▼-->
+				<div class="category-box">
+					<div class="category-title">
+                        <a href="jitte/">ジッテプラスを実際に使用した人の口コミ・生声</a>
+					</div>
+					<div class="category-img">
+							<a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+BXUZJM+2DDC+4SVMXD" target="_blank" rel="nofollow">
+                            <img border="0" width="350" height="350" alt="ジッテプラス" src="https://www28.a8.net/svt/bgt?aid=180414477722&wid=001&eno=01&mid=s00000011064029037000&mc=1"></a>
+                            <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=2ZEWP9+BXUZJM+2DDC+4SVMXD" alt="ジッテプラス">
+					</div>
+					<div class="category-text">
+						<h5>これからできるできるニキビの予防</h5>
+                        <h5>今あるニキビ肌を清浄する</h5>
+                        <h5>美白成分でニキビの後ケア</h5>
+                        <h5>肌の乾燥が気になって、繰り返しニキビができる</h5>
+					</div>
+					<div class="category-link">
+                        <a href="jitte/">→ジッテプラスを実際に使用した人の口コミ・生声の一覧を見る</a>
+					</div>
+				</div>
+                <!--▲▲ジッテプラス▲▲-->
                 
                 
 			</div>
