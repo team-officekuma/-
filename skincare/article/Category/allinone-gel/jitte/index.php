@@ -108,55 +108,49 @@
 				口コミ
 			</a>
 			>
-			<span>パルクレールジェルを実際に..</span>
+			<span>ジッテプラスを実際に..</span>
 		</div>
 		<div class="maincontent">
 			<div class="article">
-				<h1 class="h1">パルクレールジェル&nbsp;トライアルセットを実際に使用した人の<br>口コミ・生声</h1>
-                <p><img src="../../../../assets/img/ttl_kuchikomi-palclair.jpg" alt="パルクレールジェルの口コミ">
+				<h1 class="h1">ジッテプラスを実際に使用した人の<br>口コミ・生声</h1>
+                <p><img src="../../../../assets/img/ttl_kuchikomi-jitte.jpg" alt="ジッテプラスの口コミ">
                 </p>
                 
                 <div class="box-2">
 					<div class="img">
-						<a href="https://px.a8.net/svt/ejp?a8mat=2ZL6YP+97114I+3HSM+674EP" target="_blank" rel="nofollow">
-                        <img border="0" width="800" height="90" alt="パルクレールジェル" src="https://www28.a8.net/svt/bgt?aid=180707713556&wid=001&eno=01&mid=s00000016303001041000&mc=1"></a>
-                        <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=2ZL6YP+97114I+3HSM+674EP" alt="パルクレールジェル">
+						<a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+BXUZJM+2DDC+4SPF5T" target="_blank" rel="nofollow">
+                        <img border="0" width="728" height="90" alt="ジッテプラス" src="https://www21.a8.net/svt/bgt?aid=180414477722&wid=001&eno=01&mid=s00000011064029008000&mc=1"></a>
+                        <img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2ZEWP9+BXUZJM+2DDC+4SPF5T" alt="ジッテプラス">
 					</div>
                     <p>
-                    パルクレールジェルは保湿成分（コラーゲン・ヒアルロン酸・スクワランなど）たっぷりなので、<span class="blue">乾燥肌・敏感肌さんのニキビケアにピッタリ</span>です。<br>
-                    プルプルのジェルが、バリア機能（※）を高めて<strong>ニキビのできにくい肌をつくってくれます。</strong><br>
-                    ※ニキビや肌荒れができないように肌を守る働き。
+                    ジッテプラス（Jitte+）は手島優さんが実際に使用している事でも知られている背中ニキビ専用のジェルです。
                     <br><br>
-                    肌のバリア機能は、潤いによって保たれるもの。<br>
-                    なのでお肌の潤いが足りずカサカサしている乾燥肌や敏感肌の人は、バリア機能が弱ってしまっています。<br>
+                    ジッテプラス（Jitte+）の特徴は、何と言っても背中ニキビに特化しているのです！<br>
+                    普段中々目が、行き届かない背中ですが、ドレスや水着ですと非常に目がいって目立つ場所ですよね。
                     <br><br>
-                    ニキビの原因”アクネ菌”にも勝てず、すぐにニキビができてしまうんですね。
+                    顔用のニキビ薬をぬっても効果はあまり期待出来ないでしょう。<br> 
+                    何故なら顔の5倍も皮膚が厚いので肌の奥まで浸透しないからです。
                     <br><br>
-                    つまりニキビをできにくくするためには、<strong>保湿を徹底してバリア機能を高めることがポイント。</strong>
+                    しかしジッテプラス（Jitte+）は、<span class="blue">独自成分「アクシア-トリプルヒアルロン酸」により顔の5倍厚いと言われる背中 の皮膚にも浸透する驚異の保湿力</span>をもっているのです。
                     <br><br>
-                    保湿力ばっちりのパルクレールジェルなら、内側からもっちりプルプル肌にしてニキビをできにくくしてくれます。
+                    また、<span class="blue">栄養や水分をお肌にキープできるようにお肌の水分と油分の比率を8:2の黄金バランスへ導いてくれるビサボロールを配合</span>しています。
                     <br><br>
-                    パルクレールジェルは<span class="blue">ニキビの炎症を抑えるサポートもしてくれます。</span><br>
-                    アラントイン・カミツレ花エキス・紫根エキスなどの抗炎症成分が、炎症をケアしてくれるんですね。
+                    赤ちゃんのお肌も実は8:2という油分の比率です。<br>
+                    それに比べ背中ニキビで困っている人の油分の比率を調べてみると9.5:0.5に比率の人が多いです。<br>
+                    いかに油分比率を8:2にもっていくのかがポイントなんですね。
                     <br><br>
-                    ニキビが悪化して大きくなる前に炎症を鎮めることで、小さいうちにすばやくニキビを治せます。
-                    <br><br>
-                    ちなみにどの成分も植物由来で肌にやさしいので、ニキビを刺激して悪化させる心配もありません。
-                    <br><br>
-                    <strong>予防だけでなく今あるニキビのケアもできるので「なかなか治らないニキビを早く全部消したい！」という人</strong>にも、パルクレールジェルはぴったりです。 
-                    <br><br>
-                    <strong>価格は4980円。永久返金保証付きです。</strong>
+                    ジッテプラスは、毛穴の洗浄力とニキビ跡を抑える美白効果で <strong>予防→改善→跡ケアをたった１つで実現出来る</strong>背中ニキビ、ニキビあと、大人ニキビ用の医薬部外品のジェルです。
                     <br>
                     ⇒
-						<a href="https://px.a8.net/svt/ejp?a8mat=2ZL6YP+97114I+3HSM+5Z6WY" target="_blank" rel="nofollow">もっと詳しく見る</a>
-                        <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2ZL6YP+97114I+3HSM+5Z6WY" alt="もっと詳しく見る">
+                        <a href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+BXUZJM+2DDC+4SQA0Y" target="_blank" rel="nofollow">もっと詳しく見る</a>
+                        <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2ZEWP9+BXUZJM+2DDC+4SQA0Y" alt="もっと詳しく見る">
                         <p>
-                        <a class="button" href="https://px.a8.net/svt/ejp?a8mat=2ZL6YP+97114I+3HSM+5Z6WY" target="_blank" rel="nofollow">パルクレールジェルの公式サイトはこちら</a>
-                        <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2ZL6YP+97114I+3HSM+5Z6WY" alt="パルクレールジェルの公式サイトはこちら">
+                        <a class="button"href="https://px.a8.net/svt/ejp?a8mat=2ZEWP9+BXUZJM+2DDC+4SQA0Y" target="_blank" rel="nofollow">ジッテプラスの公式サイトはこちら</a>
+                        <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2ZEWP9+BXUZJM+2DDC+4SQA0Y" alt="ジッテプラスの公式サイトはこちら">    
 					</p>
 				</div>
                             
-                <h2 class="h2">パルクレールジェルの口コミ</h2>        
+                <h2 class="h2">ジッテプラスの口コミ</h2>        
 			</div>
             
             <div class="article">
